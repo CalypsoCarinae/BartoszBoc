@@ -2,13 +2,13 @@ Hello,
 
 I'm Bartosz (going on the internet by Calypso)
 
-I'm an Applied CompSci student at JU
-My scientific interests include mathematics (Discrete, Algebra, Analysis, Calculus, Logic & Set Theory) and basic Artificial Intelligence
-Some of my other hobbies include cycling and playing piano
+I'm an Applied CompSci student at JU\n
+My scientific interests include mathematics (Discrete, Algebra, Analysis, Calculus, Logic & Set Theory) and basic Artificial Intelligence\n
+Some of my other hobbies include cycling and playing piano\n\n
 
-How to reach me:
-discord: calypsocarinae
-mail: caly.onyx14@gmail.com
+How to reach me:\n
+- discord: calypsocarinae\n
+- mail: caly.onyx14@gmail.com\n
 <!--
 
 Here are some ideas to get you started:
