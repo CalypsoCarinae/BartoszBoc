@@ -1,7 +1,15 @@
-## Hi there 👋
+Hello,
 
+I'm Bartosz (going on the internet by Calypso)
+
+I'm an Applied CompSci student at JU
+My scientific interests include mathematics (Discrete, Algebra, Analysis, Calculus, Logic & Set Theory) and basic Artificial Intelligence
+Some of my other hobbies include cycling and playing piano
+
+How to reach me:
+discord: calypsocarinae
+mail: caly.onyx14@gmail.com
 <!--
-**BartoszBoc/BartoszBoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +22,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BartoszBoc&layout=compact&hide=SWIG&theme=dark)
