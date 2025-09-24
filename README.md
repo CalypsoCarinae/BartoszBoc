@@ -2,7 +2,7 @@ Hello,
 
 I'm Calypso
 
-I'm an Applied CompSci student at JU  
+I'm an Applied CompSci student at Jagiellonian University
 My scientific interests include mathematics (Discrete, Algebra, Analysis, Calculus, Logic & Set Theory) and basic Artificial Intelligence  
 Some of my other hobbies include cycling and playing piano  
   
