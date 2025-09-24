@@ -1,6 +1,6 @@
 Hello,
 
-I'm Bartosz (going on the internet by Calypso)
+I'm Calypso
 
 I'm an Applied CompSci student at JU  
 My scientific interests include mathematics (Discrete, Algebra, Analysis, Calculus, Logic & Set Theory) and basic Artificial Intelligence  
